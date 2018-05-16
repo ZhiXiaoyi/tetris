@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<frame title="俄罗斯方块JF160704智晓毅" width="1165" height="700"
+		windowSize="7" padding="16">
+		<layer className="com.zxy.view.ui.LayerBackground" xPoint="0" yPoint="0" w="1162"
+			h="654" />
+		<layer className="com.zxy.view.ui.LayerIntroduction" xPoint="40" yPoint="32" w="334"
+			h="279" />
+		<layer className="com.zxy.view.ui.LayerMethod" xPoint="40" yPoint="343" w="334"
+			h="279" />
+		<layer className="com.zxy.view.ui.LayerGame" xPoint="414" yPoint="32" w="334"
+			h="590" />
+		<layer className="com.zxy.view.ui.LayerButton" xPoint="788" yPoint="32" w="334"
+			h="148" />
+		<layer className="com.zxy.view.ui.LayerNext" xPoint="788" yPoint="188" w="176"
+			h="116" />
+		<layer className="com.zxy.view.ui.LayerLevel" xPoint="964" yPoint="188" w="158"
+			h="116" />
+		<layer className="com.zxy.view.ui.LayerPoint" xPoint="788" yPoint="326" w="334"
+			h="160" />
+
+	</frame>
+	<system></system>
+	<data></data>
+</game>
